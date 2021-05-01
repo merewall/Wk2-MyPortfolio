@@ -4,11 +4,11 @@ A web application created from scratch that serves as a portfolio page.
 ## Description
 This repository is my first ever web application that I've created from scratch and will serve as a portfolio page to highlight my work.
 
-This project was after learning advanced CSS and specifically to challenge us to use CSS variables, flexbox, and media queries for responsive design.
+This project was completed after learning advanced CSS and designed specifically to challenge us to use CSS variables, flexbox, and media queries for responsive design.
 
 The following acceptance criteria were used in the development of this web application:
 
-* When portfolio loads, includes my name, a recent photo, and links to sections about me, my owkr, and contact information
+* When portfolio loads, includes my name, a recent photo, and links to sections about me, my work, and contact information
 * Links in the navigation jumps to the corresponding section in the page
 * The work section contains titled images of the developer's applications
 * The first image in the work section is larger in size than the other work images
@@ -24,7 +24,7 @@ The following acceptance criteria were used in the development of this web appli
 
 The following image shows the web application's appearance and functionality:
 
-![My Portfolio webpage includes a banner image in the header, a navigation bar, a profile picture, sections highlighting About Me and My Work, and a Contact footer on the page.](https://github.com/merewall/Wk2-MyPortfolio/Assets/Images/MyPortfolioScreenshot.png)    
+![My Portfolio webpage includes a banner image in the header, a navigation bar, a profile picture, sections highlighting About Me and My Work, and a Contact footer on the page.](https://github.com/merewall/Wk2-MyPortfolio/blob/main/Assets/Images/MyPortfolioScreenshot.PNG)    
 
 ## Deployed Application Link
 
